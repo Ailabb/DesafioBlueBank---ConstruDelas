@@ -1,0 +1,20 @@
+E:\Teste Aila\BlueBank\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+E:\Teste Aila\BlueBank\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\Teste Aila\BlueBank\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\Teste Aila\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+E:\Teste Aila\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+E:\Teste Aila\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+E:\Teste Aila\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+E:\Teste Aila\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+E:\Teste Aila\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
+E:\Teste Aila\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb

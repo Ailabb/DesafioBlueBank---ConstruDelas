@@ -1,0 +1,32 @@
+E:\Teste Aila\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.deps.json
+E:\Teste Aila\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.json
+E:\Teste Aila\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.dev.json
+E:\Teste Aila\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.dll
+E:\Teste Aila\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.pdb
+E:\Teste Aila\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Dominio.dll
+E:\Teste Aila\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Dominio.pdb
+E:\Teste Aila\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.AssemblyReference.cache
+E:\Teste Aila\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfoInputs.cache
+E:\Teste Aila\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfo.cs
+E:\Teste Aila\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CoreCompileInputs.cache
+E:\Teste Aila\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CopyComplete
+E:\Teste Aila\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.dll
+E:\Teste Aila\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.pdb
+E:\Teste Aila\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.genruntimeconfig.cache
+E:\Teste Aila\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.deps.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.dev.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.AssemblyReference.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfoInputs.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfo.cs
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CopyComplete
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.genruntimeconfig.cache

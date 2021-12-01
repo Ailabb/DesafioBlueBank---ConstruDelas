@@ -1,0 +1,282 @@
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\appsettings.Development.json
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\appsettings.json
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.exe
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.deps.json
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.runtimeconfig.json
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.runtimeconfig.dev.json
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ref\BlueBank.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.pdb
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.csproj.AssemblyReference.cache
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.GeneratedMSBuildEditorConfig.editorconfig
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.AssemblyInfoInputs.cache
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.AssemblyInfo.cs
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.csproj.CoreCompileInputs.cache
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.MvcApplicationPartsAssemblyInfo.cs
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.MvcApplicationPartsAssemblyInfo.cache
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\staticwebassets\BlueBank.StaticWebAssets.Manifest.cache
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\staticwebassets\BlueBank.StaticWebAssets.xml
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\scopedcss\bundle\BlueBank.styles.css
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.RazorTargetAssemblyInfo.cache
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.csproj.CopyComplete
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.dll
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\ref\BlueBank.dll
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.pdb
+E:\Teste Aila\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.genruntimeconfig.cache
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Humanizer.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Dominio.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Repositorio.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Dominio.pdb
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Repositorio.pdb
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Npgsql.dll
+E:\Teste Aila\BlueBank\BlueBank\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\appsettings.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.exe
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.deps.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.runtimeconfig.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.runtimeconfig.dev.json
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ref\BlueBank.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\BlueBank.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Humanizer.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Npgsql.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Dominio.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Repositorio.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Dominio.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\bin\Debug\net5.0\Repositorio.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.csproj.AssemblyReference.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.AssemblyInfoInputs.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.AssemblyInfo.cs
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.csproj.CoreCompileInputs.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\staticwebassets\BlueBank.StaticWebAssets.Manifest.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\staticwebassets\BlueBank.StaticWebAssets.xml
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\scopedcss\bundle\BlueBank.styles.css
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.RazorTargetAssemblyInfo.cache
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.csproj.CopyComplete
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\ref\BlueBank.dll
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.pdb
+C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\BlueBank\obj\Debug\net5.0\BlueBank.genruntimeconfig.cache
