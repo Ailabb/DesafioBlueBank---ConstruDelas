@@ -30,3 +30,18 @@ C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\D
 C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.dll
 C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.pdb
 C:\Users\aiane\OneDrive\Documentos\AÍLA\Construdelas\BlueBank\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.genruntimeconfig.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.deps.json
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.json
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.runtimeconfig.dev.json
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\bin\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.AssemblyReference.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfoInputs.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.AssemblyInfo.cs
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.dll
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.pdb
+C:\Users\Gaby\Documents\CURSO CONSTRUDELAS - GAMA ACADEMY\C#\DESAFIO BLUE BANK ATUAL\DesafioBlueBank---ConstruDelas-master\Repositorio\obj\Debug\netcoreapp3.1\Repositorio.genruntimeconfig.cache

@@ -1,25 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Repositorio\\Repositorio.csproj": {}
+    "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Repositorio\\Repositorio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Dominio\\Dominio.csproj": {
+    "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Dominio\\Dominio.csproj",
-        "packagesPath": "C:\\Users\\aiane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Dominio\\obj\\",
+        "projectPath": "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Dominio\\Dominio.csproj",
+        "packagesPath": "C:\\Users\\Gaby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\aiane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gaby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -58,26 +58,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Repositorio\\Repositorio.csproj": {
+    "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Repositorio\\Repositorio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Repositorio\\Repositorio.csproj",
+        "projectUniqueName": "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Repositorio\\Repositorio.csproj",
         "projectName": "Repositorio",
-        "projectPath": "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Repositorio\\Repositorio.csproj",
-        "packagesPath": "C:\\Users\\aiane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Repositorio\\obj\\",
+        "projectPath": "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Repositorio\\Repositorio.csproj",
+        "packagesPath": "C:\\Users\\Gaby\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Repositorio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\aiane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Gaby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -90,8 +90,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\aiane\\OneDrive\\Documentos\\AÍLA\\Construdelas\\BlueBank\\Dominio\\Dominio.csproj"
+              "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Gaby\\Documents\\CURSO CONSTRUDELAS - GAMA ACADEMY\\C#\\DESAFIO BLUE BANK ATUAL\\DesafioBlueBank---ConstruDelas-master\\Dominio\\Dominio.csproj"
               }
             }
           }
@@ -142,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
