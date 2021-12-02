@@ -133,14 +133,14 @@ namespace BlueBank.Controllers
         {
             try
             {
-                var heroi = await _repo.GetClienteById(id);
+                var deleteConta = await _repo.GetClienteById(id);
 
-                if (heroi != null)
+                if (deleteConta != null)
                 {
-                    _repo.Delete(heroi);
+                    _repo.Delete(deleteConta);
 
                     if (await _repo.SaveChangeAsync())
-                        return Ok("BAZINGA");
+                        return Ok("Cliente Deletado");
                 }
             }
             catch (Exception ex)

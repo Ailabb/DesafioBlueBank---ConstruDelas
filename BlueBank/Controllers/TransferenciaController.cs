@@ -46,10 +46,22 @@ namespace BlueBank.Controllers
         /// <param name="id"></param>
         /// <returns></returns>
         [HttpGet("{id}")]
-        public string Get(int id)
+
+        public async Task<IActionResult> Get(int id)
         {
-            return "value";
+            try
+            {
+                var transferencias = await _repo.GetMovimentoById(id);
+
+                return Ok(transferencias);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest($"Erro: {ex.Message}");
+            }
+
         }
+       
 
         // POST api/<TransferenciaController>
         /// <summary>
@@ -61,8 +73,8 @@ namespace BlueBank.Controllers
         public async Task<IActionResult> Post(Movimento model)
         {
             try
-            {                
-                return Ok(await _repo.Transferencia(model.Valor, model.OrigemId, model.DestinoId));                
+            {
+                return Ok(await _repo.Transferencia(model.Valor, model.OrigemId, model.DestinoId));
 
             }
             catch (Exception ex)
@@ -70,7 +82,7 @@ namespace BlueBank.Controllers
 
                 return BadRequest($"Erro: {ex.Message}");
             }
-            
+
         }
     }
 }
