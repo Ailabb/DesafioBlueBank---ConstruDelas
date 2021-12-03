@@ -74,6 +74,9 @@ namespace BlueBank.Controllers
         {
             try
             {
+                //Verifica se a conta já está cadastrada para um outro usuário
+                await _repo.ContaExistente(model.NumeroConta);                
+
                 _repo.Add(model);
 
                 if (await _repo.SaveChangeAsync())

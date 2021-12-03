@@ -63,7 +63,7 @@ namespace Repositorio
 
         public async Task<Cliente> GetClienteById(int id)
         {
-            IQueryable<Cliente> query = _context.Clientes;
+            IQueryable<Cliente> query = _context.Clientes.AsNoTracking();
 
             return await query.FirstOrDefaultAsync(cliente => cliente.Id == id);
         }
@@ -73,6 +73,17 @@ namespace Repositorio
             IQueryable<Cliente> query = _context.Clientes.Where(cliente => cliente.Nome == nome);
 
             return await query.ToArrayAsync();
+        }
+
+        public async Task ContaExistente(int NumeroConta)
+        {
+            var quantidade = await _context.Clientes.Where(cliente => cliente.NumeroConta == NumeroConta).CountAsync();
+
+            if (quantidade > 0)
+            {                
+                throw new Exception($"A conta {NumeroConta} já está cadastrada para um outro cliente");
+            }
+            
         }
 
         public async Task<Movimento[]> GetAllMovimentos()

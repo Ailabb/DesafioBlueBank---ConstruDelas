@@ -17,6 +17,7 @@ namespace Repositorio
         Task<Cliente[]> GetAllClientes();
         Task<Cliente> GetClienteById(int id);
         Task<Cliente[]> GetClienteByNome(string nome);
+        Task ContaExistente(int NumeroConta);
 
         Task<Movimento[]> GetAllMovimentos();
         Task<Movimento> GetMovimentoById(int id);
